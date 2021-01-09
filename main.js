@@ -101,6 +101,45 @@ friends.push("Nada");
 console.log(friends);
 */
 
+/*
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohammd",
+    "Ayham"
+
+];
+
+console.log(friends);
+
+friends.push("Nada");
+
+console.log(friends);
+*/
+/*
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohammd",
+    "Ayham"
+
+];
+
+console.log(friends);
+
+console.log(friends.length);
+
+friends.push("Nada");
+
+console.log(friends);
+*/
+
 
 var friends = [
     "Hassan",
@@ -108,13 +147,16 @@ var friends = [
     "Ahmad",
     "Zahra",
     "Hind",
-    "Mohammd"
+    "Mohammd",
+    "Ayham"
 
 ];
 
 console.log(friends);
 
-friends.push("Nada");
+console.log(friends.length);
+
+friends.unshift("Nada");
 
 console.log(friends);
 
