@@ -252,7 +252,7 @@ console.log(friends);
 
 console.log(friends.length);
 
-friends.splice(3, 4);
+friends.splice(3, 0, "Ibrahim", "Ali", "Kamel");
 
 console.log(friends);
 
