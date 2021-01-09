@@ -62,7 +62,7 @@ console.log(friends);
 
 */
 
-
+/*
 var friends = [
     "Hassan",
     "Soha",
@@ -77,8 +77,44 @@ console.log(friends);
 
 console.log(friends.length);
 
-friends[friends.length] = "samer"; 
+friends[friends.length] = "Samer"; 
 
 console.log(friends.length);
 
 console.log(friends);
+*/
+/*
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohammd"
+
+];
+
+console.log(friends);
+
+friends.push("Nada");
+
+console.log(friends);
+*/
+
+
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+    "Mohammd"
+
+];
+
+console.log(friends);
+
+friends.push("Nada");
+
+console.log(friends);
+
